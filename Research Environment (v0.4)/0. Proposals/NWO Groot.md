@@ -1,2 +1,2 @@
 
-tba - summary of expectations from the NWO Groot proposal
+tba - summary of expectations from the NWO Groot proposal.
