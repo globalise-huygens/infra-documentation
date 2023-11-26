@@ -1,1 +1,0 @@
-If we are going to support semantic searche (e.g. via AUG or custom GPTs) then we're going to get back natural language responses. What do we do with these? What affordances do we want to offer our users for working with them?

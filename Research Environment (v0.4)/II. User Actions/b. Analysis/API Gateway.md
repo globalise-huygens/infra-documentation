@@ -1,1 +1,0 @@
-In this scenario, we pass a transcription (page), or a document (pages), or set of pages or documents (e.g. search result..) to another service via its API. For example, https://voyant-tools.org or a hosted language model, for example.  
