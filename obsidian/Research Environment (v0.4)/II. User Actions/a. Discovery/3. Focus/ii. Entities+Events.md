@@ -1,0 +1,1 @@
+Enrichments should not only be used as filters but should also as search results. For example, a list of all events or entities matching a criteria. The page or the document is not the only possible unit of result to a search query.
