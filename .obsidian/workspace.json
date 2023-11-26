@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "103671fb5860ad58",
+        "id": "0c73b9390e25c27c",
         "type": "tabs",
         "children": [
           {
-            "id": "9fbb565eef164a2c",
+            "id": "59a6116fc77800c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Environment (v0.4)/0. Proposals/NWO Groot.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,6 +142,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fbb565eef164a2c",
+  "active": "62cd10d03f72cf46",
   "lastOpenFiles": []
 }
