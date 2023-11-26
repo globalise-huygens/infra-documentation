@@ -1,1 +1,0 @@
-Add overview of metadata from NA, link to resources

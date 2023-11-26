@@ -1,1 +1,0 @@
-For example, if we ask: "How many references do we have to ships leaving from Batavia for Amsterdam with a cargo of cloves in 1750?" Or, "How many tonnes of cloves were shipped to Amsterdam in 1750?" then you are not necessarily returning a set of pages as results, but the result of a calculation (together with references to the basis for the calculation, as a reference).
