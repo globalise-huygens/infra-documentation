@@ -1,0 +1,2 @@
+
+As an aid to later reviewing and retrieving what kind of searches led to what kinds of results, it would be useful to have a way to export the results of a work session in e.g. CSV format. This could include a list of all searches (search terms), when these were made, a summary of the produced results, and a URL for reproducing each search. 

@@ -1,0 +1,3 @@
+For example, clustered documents based on embeddings. Since the embeddings are pre-computed, at least some clusters could also be pre-computed, for example by some (semantic) concept.
+
+In theory, this could also refer to calculations on metadata and enrichments. For example: How many references do we have to ships leaving from Batavia for Amsterdam with a cargo of cloves in 1750? Based on this information, how many tonnes of cloves were shipped to Amsterdam in 1750? 
