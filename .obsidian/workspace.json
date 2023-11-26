@@ -11,8 +11,12 @@
             "id": "59a6116fc77800c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Research Environment (v0.4)/0. Proposals/NWO Groot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -143,5 +147,8 @@
     }
   },
   "active": "62cd10d03f72cf46",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Research Environment (v0.4)/test2",
+    "Research Environment (v0.4)/test1"
+  ]
 }
